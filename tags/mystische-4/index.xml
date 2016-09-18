@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kupferstichsammlung Hamburg </title>
+    <link>https://kupferstich.github.io/tags/mystische-4/</link>
+    <language>en-us</language>
+    <author></author>
+    <rights>(C) 1580</rights>
+    <updated>1580-09-18 11:25:21 &#43;0200 &#43;0200</updated>
+
+    
+      
+        <item>
+          <title>Die vier Winde</title>
+          <link>https://kupferstich.github.io/post/test/</link>
+          <pubDate>Thu, 18 Sep 1580 11:25:21 &#43;0200</pubDate>
+          <author></author>
+          <guid>https://kupferstich.github.io/post/test/</guid>
+          <description>&lt;p&gt;Hallo&lt;/p&gt;
+</description>
+        </item>
+      
+    
+      
+        <item>
+          <title>Maria Magdalena</title>
+          <link>https://kupferstich.github.io/post/magdalena/</link>
+          <pubDate>Sat, 18 Sep 1565 12:11:22 &#43;0200</pubDate>
+          <author></author>
+          <guid>https://kupferstich.github.io/post/magdalena/</guid>
+          <description></description>
+        </item>
+      
+    
+
+  </channel>
+</rss>
