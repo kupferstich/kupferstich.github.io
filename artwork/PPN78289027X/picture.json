@@ -1,0 +1,45 @@
+{
+  "ID": "PPN78289027X",
+  "Title": "Maria Mater Dei",
+  "Topic": "[Acht berühmte Frauen aus dem Alten und Neuen Testament]",
+  "Text": "dlkjslkj\n\n---\nnoch etwas\n",
+  "canvasWidth": 700,
+  "canvasHeight": 700,
+  "Areas": [
+    {
+      "areaID": "Maria und Jesus auf dem Esel",
+      "rect": {
+        "type": "rect",
+        "left": 5,
+        "top": 221,
+        "width": 100,
+        "height": 50,
+        "fill": "blue",
+        "opacity": 0.5,
+        "scaleX": 1.74,
+        "scaleY": 3.74,
+        "hasRotatingPoint": false
+      },
+      "Shape": "rect",
+      "Coords": "",
+      "Persons": null,
+      "Text": "Maria und Jesus sind auf dem Esel. Josef hält die Zügel und führt seine Familie nach Jerusalem.",
+      "Links": null
+    }
+  ],
+  "Captured": 0,
+  "Place": "",
+  "YearIssued": "1565",
+  "Persons": [
+    "GND118547658",
+    "GND100811957",
+    "GND1038562066"
+  ],
+  "Tags": [
+    "Bibel",
+    "Maria",
+    "acht Frauen"
+  ],
+  "Links": null,
+  "Status": "Bild zugeschnitten"
+}

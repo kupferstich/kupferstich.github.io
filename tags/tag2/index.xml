@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kupferschatzsucher</title>
+    <link>https://kupferstich.github.io/tags/tag2/index.xml</link>
+    <description>Recent content on Kupferschatzsucher</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://kupferstich.github.io/tags/tag2/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>test2</title>
+      <link>https://kupferstich.github.io/post/post-title/</link>
+      <pubDate>Tue, 11 Oct 2016 16:06:00 +0200</pubDate>
+      
+      <guid>https://kupferstich.github.io/post/post-title/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>test1</title>
+      <link>https://kupferstich.github.io/post/post-title/</link>
+      <pubDate>Tue, 11 Oct 2016 16:05:56 +0200</pubDate>
+      
+      <guid>https://kupferstich.github.io/post/post-title/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
