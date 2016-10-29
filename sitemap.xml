@@ -17,11 +17,6 @@
   </url>
   
   <url>
-    <loc>https://kupferstich.github.io/artwork/PPN782888984/</loc>
-    <lastmod>2016-10-19T13:22:34+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://kupferstich.github.io/post/post-title/</loc>
     <lastmod>2016-10-11T16:06:00+02:00</lastmod>
   </url>
@@ -29,6 +24,14 @@
   <url>
     <loc>https://kupferstich.github.io/post/post-title/</loc>
     <lastmod>2016-10-11T16:05:56+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kupferstich.github.io/artist/SadelerJohann_GND121978788/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kupferstich.github.io/artist/VosMaarten%20de_GND118643177/</loc>
   </url>
   
 </urlset>

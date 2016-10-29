@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Artist-rsses on Kopergravure</title>
+    <link>https://kupferstich.github.io/artist/index.xml</link>
+    <description>Recent content in Artist-rsses on Kopergravure</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://kupferstich.github.io/artist/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Sadeler, Johann</title>
+      <link>https://kupferstich.github.io/artist/SadelerJohann_GND121978788/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kupferstich.github.io/artist/SadelerJohann_GND121978788/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vos, Maarten de</title>
+      <link>https://kupferstich.github.io/artist/VosMaarten%20de_GND118643177/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kupferstich.github.io/artist/VosMaarten%20de_GND118643177/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -32,15 +32,6 @@
     </item>
     
     <item>
-      <title>Dixit Deus fiat firmamentum in medio aquarum ...</title>
-      <link>https://kupferstich.github.io/artwork/PPN782888984/</link>
-      <pubDate>Wed, 19 Oct 2016 13:22:34 +0000</pubDate>
-      
-      <guid>https://kupferstich.github.io/artwork/PPN782888984/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>test2</title>
       <link>https://kupferstich.github.io/post/post-title/</link>
       <pubDate>Tue, 11 Oct 2016 16:06:00 +0200</pubDate>
@@ -55,6 +46,24 @@
       <pubDate>Tue, 11 Oct 2016 16:05:56 +0200</pubDate>
       
       <guid>https://kupferstich.github.io/post/post-title/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sadeler, Johann</title>
+      <link>https://kupferstich.github.io/artist/SadelerJohann_GND121978788/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kupferstich.github.io/artist/SadelerJohann_GND121978788/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vos, Maarten de</title>
+      <link>https://kupferstich.github.io/artist/VosMaarten%20de_GND118643177/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kupferstich.github.io/artist/VosMaarten%20de_GND118643177/</guid>
       <description></description>
     </item>
     
