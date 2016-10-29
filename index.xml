@@ -1,13 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kupferschatzsucher</title>
+    <title>Kopergravure</title>
     <link>https://kupferstich.github.io/index.xml</link>
-    <description>Recent content on Kupferschatzsucher</description>
+    <description>Recent content on Kopergravure</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Oct 2016 19:39:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Oct 2016 16:07:18 +0000</lastBuildDate>
     <atom:link href="https://kupferstich.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Oriens - Der Ostwind</title>
+      <link>https://kupferstich.github.io/artwork/PPN783579942/</link>
+      <pubDate>Thu, 27 Oct 2016 16:07:18 +0000</pubDate>
+      
+      <guid>https://kupferstich.github.io/artwork/PPN783579942/</guid>
+      <description>&lt;p&gt;Auszug aus dem Katalog:&lt;/p&gt;
+
+&lt;p&gt;Die einzige Ausnahme bildet der Kupferstich Oriens, in welchem der Hauptwind Eurus rechts oben in tradierter Darstellungsweise als kleiner, pustender Windskopf dargestellt wird. Neben dem südöstlich wehenden Wind Eurus wird der Zwischenwind Cecias als Windskopf in der linken, oberen Ecke des Kupferstiches gezeigt. Des Weiteren sind die Personifikationen des Ostwinds Apeliotes und der Mutter der Winde Avrora (Eos) auszumachen. Unter ihnen erstreckt sich links der Strom Euphrat, wobei mittig Tentoria fratrum Nabath sowie Nabath filius Ismaël geschrieben steht, welche auf das Reich Nabathea und dessen Söhne verweisen soll. Auf der rechten Seite ist der Persische Golf, als Sinvs Persicvs bezeichnet, zu erkennen.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Der Lauf der Welt</title>
@@ -16,56 +28,6 @@
       
       <guid>https://kupferstich.github.io/artwork/PPN78357035X/</guid>
       <description>&lt;p&gt;Dieser Kupferstich ist der erste aus der Serie &lt;em&gt;Lauf der Welt&lt;/em&gt;. Der Titel der Serie ist hier auf der Kugel zu sehen. Dieser Stich stellt dabei das Titelblatt dar und symbolisiert dabei den Gedanken des Kreislaufes.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Susanna</title>
-      <link>https://kupferstich.github.io/artwork/PPN78289190X/</link>
-      <pubDate>Wed, 19 Oct 2016 13:23:56 +0000</pubDate>
-      
-      <guid>https://kupferstich.github.io/artwork/PPN78289190X/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dixit Deus fiat firmamentum in medio aquarum ...</title>
-      <link>https://kupferstich.github.io/artwork/PPN782888984/</link>
-      <pubDate>Wed, 19 Oct 2016 13:22:34 +0000</pubDate>
-      
-      <guid>https://kupferstich.github.io/artwork/PPN782888984/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ignis</title>
-      <link>https://kupferstich.github.io/artwork/PPN782360696/</link>
-      <pubDate>Wed, 19 Oct 2016 13:22:10 +0000</pubDate>
-      
-      <guid>https://kupferstich.github.io/artwork/PPN782360696/</guid>
-      <description>&lt;p&gt;Das ist ein Test&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Noch ein Abschnitt&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Ein dritter Abschnitt&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Maria Mater Dei</title>
-      <link>https://kupferstich.github.io/artwork/PPN78289027X/</link>
-      <pubDate>Wed, 19 Oct 2016 09:53:35 +0000</pubDate>
-      
-      <guid>https://kupferstich.github.io/artwork/PPN78289027X/</guid>
-      <description>&lt;p&gt;dlkjslkj&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;noch etwas&lt;/p&gt;
 </description>
     </item>
     
@@ -88,79 +50,20 @@
     </item>
     
     <item>
-      <title>test</title>
-      <link>https://kupferstich.github.io/artist/test/</link>
-      <pubDate>Tue, 11 Oct 2016 16:01:26 +0200</pubDate>
-      
-      <guid>https://kupferstich.github.io/artist/test/</guid>
-      <description>
-
-&lt;h1 id=&#34;test-des-artists&#34;&gt;Test des Artists&lt;/h1&gt;
-
-&lt;p&gt;Hier kommt text.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Allard, Huych</title>
-      <link>https://kupferstich.github.io/artist/AllardHuych_GND129012343/</link>
+      <title>Sadeler, Johann</title>
+      <link>https://kupferstich.github.io/artist/SadelerJohann_GND121978788/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://kupferstich.github.io/artist/AllardHuych_GND129012343/</guid>
+      <guid>https://kupferstich.github.io/artist/SadelerJohann_GND121978788/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Barendsz, Theodorus</title>
-      <link>https://kupferstich.github.io/artist/BarendszTheodorus_GND121095401/</link>
+      <title>Vos, Maarten de</title>
+      <link>https://kupferstich.github.io/artist/VosMaarten%20de_GND118643177/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://kupferstich.github.io/artist/BarendszTheodorus_GND121095401/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Baudous, Robert de</title>
-      <link>https://kupferstich.github.io/artist/BaudousRobert%20de_GND1035265567/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://kupferstich.github.io/artist/BaudousRobert%20de_GND1035265567/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bloemaert, Abraham</title>
-      <link>https://kupferstich.github.io/artist/BloemaertAbraham_GND118910906/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://kupferstich.github.io/artist/BloemaertAbraham_GND118910906/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bril, Paul</title>
-      <link>https://kupferstich.github.io/artist/BrilPaul_GND119179466/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://kupferstich.github.io/artist/BrilPaul_GND119179466/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bruegel, Pieter</title>
-      <link>https://kupferstich.github.io/artist/BruegelPieter_GND118674013/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://kupferstich.github.io/artist/BruegelPieter_GND118674013/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bruyn, Nicolas de de</title>
-      <link>https://kupferstich.github.io/artist/BruynNicolas%20de%20de_GND10006096X/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://kupferstich.github.io/artist/BruynNicolas%20de%20de_GND10006096X/</guid>
+      <guid>https://kupferstich.github.io/artist/VosMaarten%20de_GND118643177/</guid>
       <description></description>
     </item>
     
