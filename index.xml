@@ -6,8 +6,52 @@
     <description>Recent content on Kopergravure</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Oct 2016 15:43:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Nov 2016 07:00:00 +0000</lastBuildDate>
     <atom:link href="https://kupferstich.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Gopher - Go &amp; JavaScript - die Technik dieses Blogs</title>
+      <link>https://kupferstich.github.io/post/5/</link>
+      <pubDate>Tue, 01 Nov 2016 07:00:00 +0000</pubDate>
+      
+      <guid>https://kupferstich.github.io/post/5/</guid>
+      <description>
+
+&lt;p&gt;Dieser Blog ist im Rahmen von &lt;a href=&#34;https://codingdavinci.de/&#34;&gt;Coding Da Vinci Nord&lt;/a&gt; entstanden. Das Projekt des &lt;a href=&#34;https://hackdash.org/projects/57dfc9c7d9284f016c04749c&#34;&gt;Histbloggers&lt;/a&gt; hatte sich als Ziel gesetzt, die historischen Kupferstiche der Stabi Hamburg digital einem breiten Publikum zur Verfügung zu stellen.&lt;/p&gt;
+
+&lt;p&gt;Allerdings waren die Rohdaten der Staatsbibiliothek dafür nicht ausreichend. Hierfür musste eine Möglichkeit geschaffen werden, welche eine einfache Datenpflege zulässt. Auf dieser Basis wurde ein Datatool mit einer einfachen Weboberfläche geschaffen, welche zu jedem Bild eine komfortable Pflege ermöglicht.&lt;/p&gt;
+
+&lt;h2 id=&#34;das-datatool&#34;&gt;Das Datatool&lt;/h2&gt;
+
+&lt;p&gt;Das Tool besteht aus einem Server und einer Web App. Der Server ist in Go und die Web App in JavaScript umgesetzt. Alle Daten zu einem Bild werden als Textdateien im JSON Format abgelegt. Dabei gibt es drei unabhängige Ordner,  welche jeweils auch ein eigenes GitHub Repository besitzen:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Kunstwerke &lt;a href=&#34;https://github.com/kupferstich/bilderDaten&#34;&gt;GitHub Repository&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Künstler &lt;a href=&#34;https://github.com/kupferstich/personenDaten&#34;&gt;GitHub Repository&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;BlogPosts &lt;a href=&#34;https://github.com/kupferstich/posts&#34;&gt;GitHub Repository&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Der Server stellt für die Web APP eine REST API zur Verfügung. Über den Austausch von JSON Dateien erfolgt die Kommunikation zwischen Server und Webbrowser.  Durch die Verwendung eines Browsers als GUI war es möglich, dass das Datatool gezippt unter 10 MB groß ist.&lt;/p&gt;
+
+&lt;p&gt;Die Installation ist dabei sehr einfach, da der Server als eine kompilierte Datei zur Verfügung steht und auf allen Betriebssystemen lauffähig ist.&lt;/p&gt;
+
+&lt;p&gt;Die Web APP ist mittels &lt;a href=&#34;http://vuejs.org/&#34;&gt;Vue.js&lt;/a&gt; und &lt;a href=&#34;http://fabricjs.com/&#34;&gt;Fabric.js&lt;/a&gt; umgesetzt worden. Diese Umsetzung hat dabei den weiteren Vorteil, dass das Datatool sowohl nur lokal aber auch im Intra- oder Internet installiert werden kann.&lt;/p&gt;
+
+&lt;p&gt;Der Einsatz für andere Blogprojekte ist mit dem Datatool leicht möglich. Bei der ersten Erstellung von Beiträgen konnten wir erfahren,&lt;strong&gt;welchen großen pädagogischen Wert&lt;/strong&gt; das Tool bietet.  Denn dadurch, dass einzelne Bildbereiche beschrieben und verlinkt werden können, muss sich der Erfasser tiefere Gedanken zu jeder einzelnen Figur machen. Dies erfordert es, dass man sich tiefer mit den dargestellten Mythologien beschäftigen muss.&lt;/p&gt;
+
+&lt;h2 id=&#34;schnittstelle-zur-blogsoftware-hugo&#34;&gt;Schnittstelle zur Blogsoftware Hugo&lt;/h2&gt;
+
+&lt;p&gt;Das Datatool stellt eine Schnittstelle zur &lt;a href=&#34;http://gohugo.io/&#34;&gt;Blogsoftware Hugo&lt;/a&gt; bereit. Dabei werden die im Datatool erfassten Daten extrahiert, Bildausschnitte erzeugt und die Bilder in unterschiedlichen Größen für eine Darstellung im Web verkleinert.&lt;/p&gt;
+
+&lt;p&gt;Das Ergebnis sind entsprechende Dokumente in der richtigen Struktur für Hugo. Anschließend werden auf dem exportierten Content html und xml Dateien erzeugt.&lt;/p&gt;
+
+&lt;p&gt;Die erzeugten Dateien könner per &lt;em&gt;git commit&lt;/em&gt; und &lt;em&gt;git push&lt;/em&gt; einfach auf Github Pages aktuallisiert werden.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Fotonachweis: Gopher Design by &lt;a href=&#34;http://reneefrench.blogspot.de/&#34;&gt;Renee French&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Meridies - Der Südwind</title>
