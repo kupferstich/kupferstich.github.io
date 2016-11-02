@@ -6,13 +6,81 @@
     <description>Recent content in Post-rsses on Kopergravure</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Nov 2016 07:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Oct 2016 12:35:42 +0000</lastBuildDate>
     <atom:link href="https://kupferstich.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Histblogger - Kopergravure</title>
+      <link>https://kupferstich.github.io/post/1/</link>
+      <pubDate>Sun, 30 Oct 2016 12:35:42 +0000</pubDate>
+      
+      <guid>https://kupferstich.github.io/post/1/</guid>
+      <description>&lt;p&gt;Willkommen bei dem neuen Blog Kopergravure. Dieser Blog entsteht gerade im Rahmen von &lt;a href=&#34;https://codingdavinci.de/&#34;&gt;Coding Da Vinci Nord&lt;/a&gt;.  Grundlage sind die &lt;a href=&#34;https://codingdavinci.de/daten/#carl-von-ossietzky&#34;&gt;Daten der Staats- und Universitätsbibliothek Hamburg Carl von Ossietzky&lt;/a&gt; und davon die Kupferstiche von &lt;em&gt;Manier, Mythos und Moral – Niederländische Druckgraphik um 1600&lt;/em&gt;. Die Sammlung umfasst 161 Kupferstiche, welche in ihrer Gesamtheit _einer der wertvollsten und für Hamburger Sammlungen der Frühen Neuzeit aussagekräftigsten Teilbestände der Kupferstichsammlung _ ist.&lt;/p&gt;
+
+&lt;p&gt;Das Ziel des Blogs ist es die 161 digitalisierten Kupferstiche für das Web aufzuarbeiten. Das bedeutet, dass neue kürzere Texte zu jedem Bild erfasst werden. Zusätzlich werden einzelne Bereiche genauer behandelt. Der Blog hat als Ziel ungefähr ein Kunstwerk pro Woche aufbereitet zu veröffentlichen.  D.h. das Projekt ist über einen längeren Zeitraum angelegt.&lt;/p&gt;
+
+&lt;p&gt;Ganz wichtig sind uns auch Feedbacks der Leser. Deshalb möchte ich hier noch einmal ausdrücklich auf die Kommentarfunktion unterhalb der Posts und der Kunstwerke hinweisen.&lt;/p&gt;
+
+&lt;p&gt;Jetzt zum Start solle als erstes die Serie von Marteen de Vos &lt;em&gt;die vier Winde&lt;/em&gt; aufbereitet werden.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Coding Da Vinci Projektbeschreibung</title>
+      <link>https://kupferstich.github.io/post/2/</link>
+      <pubDate>Fri, 28 Oct 2016 14:43:20 +0000</pubDate>
+      
+      <guid>https://kupferstich.github.io/post/2/</guid>
+      <description>&lt;p&gt;Das Projekt umfasst zwei Teile: Zum einen das Datatool, eine Bildverwaltung, welche die Bild- und Metadaten der Stabi ausliest und für den Blog aufbereitet. Zum anderen der beispielhafte Blog “Kopergravure”, der die Möglichkeiten auf Grundlage der ausgelesenen Daten vorstellt.&lt;/p&gt;
+
+&lt;p&gt;Das Datatool stellt die graphische Oberfläche für den Blog zur Verfügung. Über diese  können Bilder-, Künstler- und Blogpost-Daten verwaltet und gepflegt werden. Dieses Programm ist so konzipiert, dass es  für andere Kunstsammlungen auch verwendet werden kann. Die Oberfläche des Datatools ist Nutzerfreundlich, so kann das Tool z.B für Schulprojekte im Rahmen des Kunstunterrichts genutzt werden. Für die Generierung des Blogs stellt das Datatool eine Export Funktion bereit, welche die Daten für die Blogsoftware Hugo aufbereitet.&lt;/p&gt;
+
+&lt;p&gt;Eine Besonderheit des Datatools ist die Pflege von Bildbereichen. Bildausschnitte können hervorgehoben werden, welche dann mit Informationen, begeisternden Geschichten, Texten und Links angereichert werden können. Diese Herangehensweise vermittelt eine neue Sicht auf die Kunstwerke, da die Textersteller sich dabei automatisch intensiver mit den einzelnen Details der Kunstwerke auseinandersetzen müssen. Insbesondere für die historischen Kupferstiche, in welchen sehr oft Mythen und Symbole verwendet werden, liefert diese Möglichkeit der Bildausschnitte einen großen Mehrwert.&lt;/p&gt;
+
+&lt;p&gt;Der zweite Teil des Projektes ist der Blog Kopergravure, welcher die historischen Kupferstiche in den nächsten zwei Jahren digital veröffentlichen wird. Dies wird automatisiert in regelmäßigen Abständen erfolgen (voraussichtlich ein Bild pro Woche). Hierfür wird bei der Erstellung der Beiträge ein Datum für die Veröffentlichung festgelegt. Über RSS Feed und eine damit automatisiert erzeugte Einträge für Twitter, Facebook und Instagram soll dieses Coding Da Vinci Projekt noch über einen längeren Zeitraum das Interesse für Kunst erhalten und anfachen.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Impressum</title>
+      <link>https://kupferstich.github.io/post/3/</link>
+      <pubDate>Wed, 26 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://kupferstich.github.io/post/3/</guid>
+      <description>
+
+&lt;h3 id=&#34;daten&#34;&gt;Daten&lt;/h3&gt;
+
+&lt;p&gt;Sofern nicht anders angegeben, wurden alle Bilddateien von der &lt;em&gt;Staats- und Universitätsbibliothek Hamburg Carl von Ossietzky&lt;/em&gt; unter der Lizenz &lt;a href=&#34;https://creativecommons.org/licenses/by/4.0/&#34;&gt;CC-BY 4.0&lt;/a&gt; zur Verfügung gestellt.&lt;/p&gt;
+
+&lt;p&gt;Staats- und Universitätsbibliothek Hamburg Carl von Ossietzky&lt;br /&gt;
+Von-Melle-Park 3&lt;br /&gt;
+20146 Hamburg&lt;br /&gt;
+&lt;a href=&#34;http://stabi.hamburg&#34;&gt;http://stabi.hamburg&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;übersetzungen&#34;&gt;Übersetzungen&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Übersetzungen&lt;/strong&gt; aus dem Lateinischen oder Kommentare zu den Kunstwerken sind, sofern nicht anders genannt aus folgendem Werk entnommen:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Manier, Mythos und Moral: niederländische Druckgraphik um 1600&lt;/em&gt; aus den Beständender Staats- und Universitätsbibliothek Hamburg / Iris Wenderholm (Hg.). Petersberg: Imhof,2014. (Publikationen der Staats- und Universitätsbibliothek Carl von Ossietzky; 6)&lt;/p&gt;
+
+&lt;h2 id=&#34;umsetzung&#34;&gt;Umsetzung&lt;/h2&gt;
+
+&lt;p&gt;Die technische Umsetzung erfolgte im Rahmen von &lt;a href=&#34;https://codingdavinci.de/&#34;&gt;Coding Da Vinci Nord 2016&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Organisation des Blogs erfolgt über die &lt;a href=&#34;https://github.com/kupferstich&#34;&gt;GitHub Kupferstich Community&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Bildnachweis:
+&lt;a href=&#34;https://stocksnap.io/photo/PY7EWSKYR3&#34;&gt;https://stocksnap.io/photo/PY7EWSKYR3&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Gopher - Go &amp; JavaScript - die Technik dieses Blogs</title>
       <link>https://kupferstich.github.io/post/5/</link>
-      <pubDate>Tue, 01 Nov 2016 07:00:00 +0000</pubDate>
+      <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
       
       <guid>https://kupferstich.github.io/post/5/</guid>
       <description>
@@ -50,74 +118,6 @@
 &lt;hr /&gt;
 
 &lt;p&gt;Fotonachweis: Gopher Design by &lt;a href=&#34;http://reneefrench.blogspot.de/&#34;&gt;Renee French&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Histblogger - Kopergravure</title>
-      <link>https://kupferstich.github.io/post/1/</link>
-      <pubDate>Sun, 30 Oct 2016 12:35:42 +0000</pubDate>
-      
-      <guid>https://kupferstich.github.io/post/1/</guid>
-      <description>&lt;p&gt;Willkommen bei dem neuen Blog Kopergravure. Dieser Blog entsteht gerade im Rahmen von &lt;a href=&#34;https://codingdavinci.de/&#34;&gt;Coding Da Vinci Nord&lt;/a&gt;.  Grundlage sind die &lt;a href=&#34;https://codingdavinci.de/daten/#carl-von-ossietzky&#34;&gt;Daten der Staats- und Universitätsbibliothek Hamburg Carl von Ossietzky&lt;/a&gt; und davon die Kupferstiche von &lt;em&gt;Manier, Mythos und Moral – Niederländische Druckgraphik um 1600&lt;/em&gt;. Die Sammlung umfasst 161 Kupferstiche, welche in ihrer Gesamtheit _einer der wertvollsten und für Hamburger Sammlungen der Frühen Neuzeit aussagekräftigsten Teilbestände der Kupferstichsammlung _ ist.&lt;/p&gt;
-
-&lt;p&gt;Das Ziel des Blogs ist es die 161 digitalisierten Kupferstiche für das Web aufzuarbeiten. Das bedeutet, dass neue kürzere Texte zu jedem Bild erfasst werden. Zusätzlich werden einzelne Bereiche genauer behandelt. Der Blog hat als Ziel ungefähr ein Kunstwerk pro Woche aufbereitet zu veröffentlichen.  D.h. das Projekt ist über einen längeren Zeitraum angelegt.&lt;/p&gt;
-
-&lt;p&gt;Ganz wichtig sind uns auch Feedbacks der Leser. Deshalb möchte ich hier noch einmal ausdrücklich auf die Kommentarfunktion unterhalb der Posts und der Kunstwerke hinweisen.&lt;/p&gt;
-
-&lt;p&gt;Jetzt zum Start solle als erstes die Serie von Marteen de Vos &lt;em&gt;die vier Winde&lt;/em&gt; aufbereitet werden.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Coding Da Vinci Projektbeschreibung</title>
-      <link>https://kupferstich.github.io/post/2/</link>
-      <pubDate>Fri, 28 Oct 2016 14:43:20 +0000</pubDate>
-      
-      <guid>https://kupferstich.github.io/post/2/</guid>
-      <description>&lt;p&gt;Das Projekt umfasst zwei Teile: Zum einen das Datatool, eine Bildverwaltung, welche die Bild- und Metadaten der Stabi ausliest und für den Blog aufbereitet. Zum anderen der beispielhafte Blog “Kopergravure”, der die Möglichkeiten auf Grundlage der ausgelesenen Daten vorstellt.&lt;/p&gt;
-
-&lt;p&gt;Das Datatool stellt die graphische Oberfläche für den Blog zur Verfügung. Über diese  können Bilder-, Künstler- und Blogpost-Daten verwaltet und gepflegt werden. Dieses Programm ist so konzipiert, dass es  für andere Kunstsammlungen auch verwendet werden kann. Die Oberfläche des Datatools ist Nutzerfreundlich, so kann das Tool z.B für Schulprojekte im Rahmen des Kunstunterrichts genutzt werden. Für die Generierung des Blogs stellt das Datatool eine Export Funktion bereit, welche die Daten für die Blogsoftware Hugo aufbereitet.&lt;/p&gt;
-
-&lt;p&gt;Eine Besonderheit des Datatools ist die Pflege von Bildbereichen. Bildausschnitte können hervorgehoben werden, welche dann mit Informationen, begeisternden Geschichten, Texten und Links angereichert werden können. Diese Herangehensweise vermittelt eine neue Sicht auf die Kunstwerke, da die Textersteller sich dabei automatisch intensiver mit den einzelnen Details der Kunstwerke auseinandersetzen müssen. Insbesondere für die historischen Kupferstiche, in welchen sehr oft Mythen und Symbole verwendet werden, liefert diese Möglichkeit der Bildausschnitte einen großen Mehrwert.&lt;/p&gt;
-
-&lt;p&gt;Der zweite Teil des Projektes ist der Blog Kopergravure, welcher die historischen Kupferstiche in den nächsten zwei Jahren digital veröffentlichen wird. Dies wird automatisiert in regelmäßigen Abständen erfolgen (voraussichtlich ein Bild pro Woche). Hierfür wird bei der Erstellung der Beiträge ein Datum für die Veröffentlichung festgelegt. Über RSS Feed und eine damit automatisiert erzeugte Einträge für Twitter, Facebook und Instagram soll dieses Coding Da Vinci Projekt noch über einen längeren Zeitraum das Interesse für Kunst erhalten und anfachen.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Impressum</title>
-      <link>https://kupferstich.github.io/post/3/</link>
-      <pubDate>Thu, 01 Sep 2016 11:55:00 +0000</pubDate>
-      
-      <guid>https://kupferstich.github.io/post/3/</guid>
-      <description>
-
-&lt;h3 id=&#34;daten&#34;&gt;Daten&lt;/h3&gt;
-
-&lt;p&gt;Sofern nicht anders angegeben, wurden alle Bilddateien von der &lt;em&gt;Staats- und Universitätsbibliothek Hamburg Carl von Ossietzky&lt;/em&gt; unter der Lizenz &lt;a href=&#34;https://creativecommons.org/licenses/by/4.0/&#34;&gt;CC-BY 4.0&lt;/a&gt; zur Verfügung gestellt.&lt;/p&gt;
-
-&lt;p&gt;Staats- und Universitätsbibliothek Hamburg Carl von Ossietzky&lt;br /&gt;
-Von-Melle-Park 3&lt;br /&gt;
-20146 Hamburg&lt;br /&gt;
-&lt;a href=&#34;http://stabi.hamburg&#34;&gt;http://stabi.hamburg&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;übersetzungen&#34;&gt;Übersetzungen&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;Übersetzungen&lt;/strong&gt; aus dem Lateinischen oder Kommentare zu den Kunstwerken sind, sofern nicht anders genannt aus folgendem Werk entnommen:&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Manier, Mythos und Moral: niederländische Druckgraphik um 1600&lt;/em&gt; aus den Beständender Staats- und Universitätsbibliothek Hamburg / Iris Wenderholm (Hg.). Petersberg: Imhof,2014. (Publikationen der Staats- und Universitätsbibliothek Carl von Ossietzky; 6)&lt;/p&gt;
-
-&lt;h2 id=&#34;umsetzung&#34;&gt;Umsetzung&lt;/h2&gt;
-
-&lt;p&gt;Die technische Umsetzung erfolgte im Rahmen von &lt;a href=&#34;https://codingdavinci.de/&#34;&gt;Coding Da Vinci Nord 2016&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Organisation des Blogs erfolgt über die &lt;a href=&#34;https://github.com/kupferstich&#34;&gt;GitHub Kupferstich Community&lt;/a&gt;.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Bildnachweis:
-&lt;a href=&#34;https://stocksnap.io/photo/PY7EWSKYR3&#34;&gt;https://stocksnap.io/photo/PY7EWSKYR3&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
