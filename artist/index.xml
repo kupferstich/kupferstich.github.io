@@ -6,8 +6,17 @@
     <description>Recent content in Artist-rsses on Kopergravure</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Nov 2016 14:17:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Dec 2016 20:30:36 +0000</lastBuildDate>
     <atom:link href="https://kupferstich.github.io/artist/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Goltzius, Hendrick</title>
+      <link>https://kupferstich.github.io/artist/GoltziusHendrick_GND118540610/</link>
+      <pubDate>Thu, 01 Dec 2016 20:30:36 +0000</pubDate>
+      
+      <guid>https://kupferstich.github.io/artist/GoltziusHendrick_GND118540610/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Couwenbergh, Gillis van</title>
@@ -213,15 +222,6 @@ Perhaps it helped that after his mother died in 1564, the whole of the family we
 
 &lt;p&gt;Philipp Galle war Mitglied einer niederländischen Kupferstecherfamilie. Er begründete die bedeutendste Werkstatt der Antwerpener Kupfersticherzeugung im späten 16. und im 17. Jahrhundert, die von seinen Söhnen Cornelius und Theodor Galle weitergeführt wurde. Nach Vorlagen von Pieter Brueghel (z. B. 1558 Der Alchemist), Maerten van Heemskerck (z. B. Die Zerstörung des Tempels Salomons), M. de Voin, Jan van der Straet und Frans Floris (z. B. Lot und seine Töchter) schuf Galle einige seiner schönsten Kupferstiche.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Peeters, Marten</title>
-      <link>https://kupferstich.github.io/artist/PeetersMarten_GND1038562066/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://kupferstich.github.io/artist/PeetersMarten_GND1038562066/</guid>
-      <description></description>
     </item>
     
   </channel>
